@@ -1,0 +1,43 @@
+/node_modules
+/public
+/public/hot
+/public/js
+/public/css
+/logs
+/Cache
+/Code Cache
+/Crash Reports
+/Local Storage
+/Session Storage
+/exthost Crash Reports
+/CachedData
+/CachedExtensions
+/Backups
+/public/storage
+/storage/*.key
+/storage/logs
+/storage/framework
+/vendor
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+User/
+Network Persistent State
+languagepacks.json
+rapid_render.json
+storage.json
+machineid
+Cookies-journal
+Cookies
+GPUCache
+yarn.lock
+.DS_Store
+!resources/js/components/passport/*
+public/css/vue-styles.css
+storage
+.env.*
+.vscode/settings.json
+TransportSecurity
